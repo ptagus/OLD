@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 3f9b37692ffd78048a0b9d83b5e60c8d
+timeCreated: 1481442155
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: childMesh
+    100002: CMU compliant skeleton
+    100004: eyebrow004Mesh
+    100006: Head
+    100008: Head_end
+    100010: Head_end_end
+    100012: Head_end_end_end
+    100014: high-polyMesh
+    100016: Hips
+    100018: LeftArm
+    100020: LeftFingerBase
+    100022: LeftFoot
+    100024: LeftForeArm
+    100026: LeftHand
+    100028: LeftHandFinger1
+    100030: LeftHandFinger1_end
+    100032: LeftHandFinger1_end_end
+    100034: LeftHandFinger1_end_end_end
+    100036: LeftLeg
+    100038: LeftShoulder
+    100040: LeftToeBase
+    100042: LeftToeBase_end
+    100044: LeftToeBase_end_end
+    100046: LeftToeBase_end_end_end
+    100048: LeftUpLeg
+    100050: LHipJoint
+    100052: LowerBack
+    100054: LThumb
+    100056: LThumb_end
+    100058: LThumb_end_end
+    100060: LThumb_end_end_end
+    100062: Neck
+    100064: Neck1
+    100066: RHipJoint
+    100068: RightArm
+    100070: RightFingerBase
+    100072: RightFoot
+    100074: RightForeArm
+    100076: RightHand
+    100078: RightHandFinger1
+    100080: RightHandFinger1_end
+    100082: RightHandFinger1_end_end
+    100084: RightHandFinger1_end_end_end
+    100086: RightLeg
+    100088: RightShoulder
+    100090: RightToeBase
+    100092: RightToeBase_end
+    100094: RightToeBase_end_end
+    100096: RightToeBase_end_end_end
+    100098: RightUpLeg
+    100100: RThumb
+    100102: RThumb_end
+    100104: RThumb_end_end
+    100106: RThumb_end_end_end
+    100108: short01Mesh
+    100110: Spine
+    100112: Spine1
+    100114: //RootNode
+    400000: childMesh
+    400002: CMU compliant skeleton
+    400004: eyebrow004Mesh
+    400006: Head
+    400008: Head_end
+    400010: Head_end_end
+    400012: Head_end_end_end
+    400014: high-polyMesh
+    400016: Hips
+    400018: LeftArm
+    400020: LeftFingerBase
+    400022: LeftFoot
+    400024: LeftForeArm
+    400026: LeftHand
+    400028: LeftHandFinger1
+    400030: LeftHandFinger1_end
+    400032: LeftHandFinger1_end_end
+    400034: LeftHandFinger1_end_end_end
+    400036: LeftLeg
+    400038: LeftShoulder
+    400040: LeftToeBase
+    400042: LeftToeBase_end
+    400044: LeftToeBase_end_end
+    400046: LeftToeBase_end_end_end
+    400048: LeftUpLeg
+    400050: LHipJoint
+    400052: LowerBack
+    400054: LThumb
+    400056: LThumb_end
+    400058: LThumb_end_end
+    400060: LThumb_end_end_end
+    400062: Neck
+    400064: Neck1
+    400066: RHipJoint
+    400068: RightArm
+    400070: RightFingerBase
+    400072: RightFoot
+    400074: RightForeArm
+    400076: RightHand
+    400078: RightHandFinger1
+    400080: RightHandFinger1_end
+    400082: RightHandFinger1_end_end
+    400084: RightHandFinger1_end_end_end
+    400086: RightLeg
+    400088: RightShoulder
+    400090: RightToeBase
+    400092: RightToeBase_end
+    400094: RightToeBase_end_end
+    400096: RightToeBase_end_end_end
+    400098: RightUpLeg
+    400100: RThumb
+    400102: RThumb_end
+    400104: RThumb_end_end
+    400106: RThumb_end_end_end
+    400108: short01Mesh
+    400110: Spine
+    400112: Spine1
+    400114: //RootNode
+    4300000: high-polyMesh
+    4300002: eyebrow004Mesh
+    4300004: short01Mesh
+    4300006: childMesh
+    7400000: CMU compliant skeleton|CMU compliant skeleton|CMU compliant skeleton|CMU
+      compliant ske
+    9500000: //RootNode
+    13700000: childMesh
+    13700002: eyebrow004Mesh
+    13700004: high-polyMesh
+    13700006: short01Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
